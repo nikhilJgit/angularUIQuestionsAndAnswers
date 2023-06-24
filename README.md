@@ -1,4 +1,4 @@
-# angularUIQuestionsAndAnswers
+# Angular UI Questions And Answers
 This repository is created to prepare for angular interview questions with their detailed answers
 
 **1. What did you learn about Angular yesterday/this week?**
